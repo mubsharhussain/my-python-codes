@@ -1,0 +1,5 @@
+#Write a Python program to solve (x + y) * (x + y)
+x=int(input("writer the value of x ="))
+y=int(input("writer the value of y ="))
+solve=(x + y) * (x + y)
+print(solve)
